@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "808095743949",
+    "project_id": "e-bookstore-f9b9a",
+    "storage_bucket": "e-bookstore-f9b9a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:808095743949:android:765c765c6d2445edb18e84",
+        "android_client_info": {
+          "package_name": "com.example.e_book"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDP9e6sjJTuz1sSpyC6GcWx8-lo4bMORqo"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
